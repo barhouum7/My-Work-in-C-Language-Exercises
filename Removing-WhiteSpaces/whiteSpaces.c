@@ -1,9 +1,9 @@
 /*
-( Removing extra white spaces from a giving string )
+( Removing extra white spaces from a given string )
 
 This Program is to remove
 extra white spaces
-from a giving string
+from a given string
 in c programming language
 
 ::  © Created By GitHub@barhouum7
